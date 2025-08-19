@@ -24,6 +24,10 @@ python main.py
 - İçilebilirlik tahmini için anomali tespiti yapılmıştır.  
 - Kümeleme algoritmaları ile su kalitesi segmentleri oluşturulmuştur.
 
+Aşağıda, su kalitesi verisinde yapılan **anomali tespiti** ve **kümeleme analizi** sonuçlarını gösteren görseller yer almaktadır:
+
+![Water Quality Results](image.png)
+
 ## 📂 Veri Seti Kaynağı
 [5] A. Kharwal, "Water Quality Analysis," amanxai.com, Aug. 19, 2021.  
 Accessed: Aug. 1, 2025. [Online]. Available: [Link](https://amanxai.com/2021/08/19/water-quality-analysis/)
